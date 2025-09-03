@@ -6,7 +6,9 @@ A retail store chain tracks daily sales transactions,including order details,cus
 
 
 ##Problem statement
+
 The store doesnot have a clear idea about:
+
 1. which products sell the most,
 2. customers preference,
 3. which items bring in the most profit, and
@@ -14,4 +16,6 @@ The store doesnot have a clear idea about:
 
 
 ##solution
+
+
 They need proper reports and simpleinsights to understand their sales,customers and product performance better.
